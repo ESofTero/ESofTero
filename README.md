@@ -30,3 +30,4 @@ An interactive web toolkit for discrete mathematics, including propositional log
 ## 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-quintero-915608441/?isSelfProfile=true)
+[LeetCode](https://leetcode.com/u/esoftero/)
